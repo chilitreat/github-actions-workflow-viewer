@@ -2,7 +2,7 @@
   "name": "github-actions-workflow-viewer",
   "displayName": "Github actions workflow viewer",
   "version": "0.0.1",
-  "description": "A basic Plasmo extension.",
+  "description": "Pretty many GitHub Actions workflow files",
   "author": "chilitreat",
   "scripts": {
     "dev": "plasmo dev",
