@@ -26,7 +26,7 @@ jobs:
       - name: Build the extension
         run: pnpm build
       - name: Package the extension into a zip artifact
-        run: pnpm package
+        run: pnpm build --zip
       - name: Browser Platform Publish
         uses: PlasmoHQ/bpp@v3
         with:
